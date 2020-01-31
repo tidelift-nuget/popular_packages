@@ -434,7 +434,7 @@
     <PackageReference Include="MediaBrowser.Common" Version="4.3.0.12" />
     <PackageReference Include="MediaBrowser.Server.Core" Version="4.3.0.12" />
     <PackageReference Include="MediatR" Version="7.0.0" />
-    <PackageReference Include="MessagePack" Version="1.8.74" />
+    <PackageReference Include="MessagePack" Version="1.9.3" />
     <PackageReference Include="metisMenu" Version="2.7.1" />
     <PackageReference Include="Metrics.NET" Version="0.5.5" />
     <PackageReference Include="MetroFramework" Version="1.2.0.3" />
