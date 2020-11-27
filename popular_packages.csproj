@@ -121,7 +121,7 @@
     <PackageReference Include="CefSharp.Common" Version="75.1.142" />
     <PackageReference Include="CefSharp.OffScreen" Version="75.1.142" />
     <PackageReference Include="CefSharp.WinForms" Version="75.1.142" />
-    <PackageReference Include="CefSharp.Wpf" Version="75.1.142" />
+    <PackageReference Include="CefSharp.Wpf" Version="86.0.241" />
     <PackageReference Include="chocolatey" Version="0.10.14" />
     <PackageReference Include="chosen" Version="1.2.0" />
     <PackageReference Include="chosen.jquery" Version="1.2.0" />
