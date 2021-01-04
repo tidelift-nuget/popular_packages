@@ -305,7 +305,7 @@
     <PackageReference Include="harvesthq.chosen" Version="1.0.0" />
     <PackageReference Include="Holder.js" Version="2.9.4" />
     <PackageReference Include="html5-shiv" Version="3.7.3" />
-    <PackageReference Include="HtmlSanitizer" Version="4.0.217" />
+    <PackageReference Include="HtmlSanitizer" Version="5.0.372" />
     <PackageReference Include="HtmlTags" Version="8.0.0" />
     <PackageReference Include="HubSpot.Tether" Version="1.1.1" />
     <PackageReference Include="Humanizer" Version="2.7.9" />
