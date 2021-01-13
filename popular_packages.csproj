@@ -810,7 +810,7 @@
     <PackageReference Include="Serenity.Services" Version="3.9.11" />
     <PackageReference Include="Serenity.Web" Version="3.9.11" />
     <PackageReference Include="Serilog" Version="2.9.0" />
-    <PackageReference Include="ServiceStack" Version="5.7.0" />
+    <PackageReference Include="ServiceStack" Version="5.9.2" />
     <PackageReference Include="ServiceStack.Api.Swagger" Version="5.7.0" />
     <PackageReference Include="ServiceStack.Authentication.OAuth2" Version="5.7.0" />
     <PackageReference Include="ServiceStack.Authentication.OpenId" Version="5.7.0" />
