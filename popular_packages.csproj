@@ -408,7 +408,7 @@
     <PackageReference Include="localForage" Version="1.3.3" />
     <PackageReference Include="lodash" Version="4.17.11" />
     <PackageReference Include="lodash.underscore" Version="2.4.1" />
-    <PackageReference Include="log4net" Version="2.0.8" />
+    <PackageReference Include="log4net" Version="2.0.10" />
     <PackageReference Include="Machine.Specifications" Version="1.0.0" />
     <PackageReference Include="Magick.NET-Q16-AnyCPU" Version="7.14.5" />
     <PackageReference Include="Magnum" Version="2.1.3" />
