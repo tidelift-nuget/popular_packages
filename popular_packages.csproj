@@ -92,7 +92,7 @@
     <PackageReference Include="BenchmarkDotNet.Diagnostics.Windows" Version="0.12.0" />
     <PackageReference Include="BenchmarkDotNet.Toolchains.Roslyn" Version="0.10.14" />
     <PackageReference Include="Bogus" Version="28.4.1" />
-    <PackageReference Include="Bond.Core.CSharp" Version="8.1.0" />
+    <PackageReference Include="Bond.Core.CSharp" Version="9.0.5" />
     <PackageReference Include="Bond.CSharp" Version="8.1.0" />
     <PackageReference Include="Bond.Runtime.CSharp" Version="8.1.0" />
     <PackageReference Include="bootstrap" Version="4.3.1" />
