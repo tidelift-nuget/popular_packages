@@ -545,7 +545,7 @@
     <PackageReference Include="Microsoft.Owin.ru" Version="4.0.1" />
     <PackageReference Include="Microsoft.Owin.Security" Version="4.0.1" />
     <PackageReference Include="Microsoft.Owin.Security.ActiveDirectory" Version="4.0.1" />
-    <PackageReference Include="Microsoft.Owin.Security.Cookies" Version="4.0.1" />
+    <PackageReference Include="Microsoft.Owin.Security.Cookies" Version="4.2.2" />
     <PackageReference Include="Microsoft.Owin.Security.es" Version="4.0.1" />
     <PackageReference Include="Microsoft.Owin.Security.Facebook" Version="4.0.1" />
     <PackageReference Include="Microsoft.Owin.Security.Facebook.es" Version="4.0.1" />
